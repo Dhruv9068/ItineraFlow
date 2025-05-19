@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # ItineraFlow - Journey Beyond Boundaries
 
-![ItineraFlow Banner](https://picsum.photos/id/42/1200/400)
-
 ItineraFlow is an immersive travel planning platform that transforms your travel dreams into reality with interactive 3D visualization, drag-and-drop itinerary planning, and personalized recommendations.
 
 ## ✨ Features
@@ -137,19 +135,6 @@ itineraflow/
 └── README.md             # Project documentation
 \`\`\`
 
-## 🖼️ Screenshots
-
-### Home Page
-![Home Page](https://picsum.photos/id/10/800/400)
-
-### Destinations
-![Destinations](https://picsum.photos/id/28/800/400)
-
-### Itinerary Planner
-![Itinerary Planner](https://picsum.photos/id/42/800/400)
-
-### Budget Calculator
-![Budget Calculator](https://picsum.photos/id/180/800/400)
 
 ## 🔮 Future Enhancements
 
@@ -170,9 +155,7 @@ We welcome contributions to ItineraFlow! Please follow these steps:
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -181,9 +164,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Icons from [Lucide](https://lucide.dev/)
 - 3D rendering inspiration from various Three.js examples
 
-## 📬 Contact
-
-For questions or feedback, please reach out to us at hello@itineraflow.com or visit our [contact page](https://itineraflow.com/contact).
 
 ---
 
