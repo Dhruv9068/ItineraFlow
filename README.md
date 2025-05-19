@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ItineraFlow - Journey Beyond Boundaries
 
 ![ItineraFlow Banner](https://picsum.photos/id/42/1200/400)
@@ -187,3 +188,6 @@ For questions or feedback, please reach out to us at hello@itineraflow.com or vi
 ---
 
 Happy Travels with ItineraFlow! 🚂✈️🗺️
+=======
+# ItineraFlow
+>>>>>>> a47f0ba48d94fa801f7f8ce89d1cc77e91ebe4d1
