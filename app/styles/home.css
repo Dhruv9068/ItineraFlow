@@ -1,0 +1,7 @@
+.hero-subtitle {
+  font-size: 1.25rem;
+  max-width: 600px;
+  margin: 0 0 2rem 0; /* Changed from margin: 0 auto; to align with heading */
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left; /* Added to ensure left alignment */
+}
