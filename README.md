@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ItineraFlow - Journey Beyond Boundaries
 
 ItineraFlow is an immersive travel planning platform that transforms your travel dreams into reality with interactive 3D visualization, drag-and-drop itinerary planning, and personalized recommendations.
